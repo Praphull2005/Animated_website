@@ -34,10 +34,4 @@ This project is a clone of the original personal portfolio website of Cynthia Ug
 
 ---
 
-## Getting Started
-To get started with the project, follow these steps:
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/AbhishekNavgan95/Cynthia-Ugwu-Portfolio-Clone.git
-```
